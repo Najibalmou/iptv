@@ -24,7 +24,8 @@ nav{
 }
 
 table{
-    margin: 50px;
+    width: 100%;
+    table-layout: fixed;
 }
 nav .logo{
     color: #fff;
